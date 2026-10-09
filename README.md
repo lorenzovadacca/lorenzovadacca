@@ -25,11 +25,7 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 
 ### ⚙️ Projects
 
-- Project 1: Description Project 1.
-- Project 2: Description Project 2.
-- Project 3: Description Project 3.
-- Project 4: Description Project 4.
-- Project 5: Description Project 5.
+- [Sizing of a power conversion system for xEV](https://github.com/lorenzovadacca/Sizing-of-a-power-conversion-system-for-xEV.git) : MATLAB/Simulink simulation and control of an electric vehicle powertrain, integrating a bidirectional DC/DC boost converter and an IPM motor drive with FOC, MTPA and field-weakening strategies.
 
 ---
 
