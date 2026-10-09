@@ -37,57 +37,61 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 
 #### Control systems & model-based design
 
-<table>
-  <tr>
-    <td align="left" valign="top"><img src="assets/skills/matlab.svg" width="44" height="44" alt="MATLAB" /><br/><sub>MATLAB</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/simulink.svg" width="44" height="44" alt="Simulink" /><br/><sub>Simulink</sub></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="assets/skills/matlab.png" height="40" alt="MATLAB" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/simulink.png" height="40" alt="Simulink" />
+</p>
 
 #### Autonomous vehicles, simulation & robotics
 
-<table>
-  <tr>
-    <td align="left" valign="top"><img src="assets/skills/ros2.svg" width="44" height="44" alt="ROS 2" /><br/><sub>ROS 2</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/carla.svg" width="44" height="44" alt="CARLA Simulator" /><br/><sub>CARLA Simulator</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/vi-carrealtime.svg" width="44" height="44" alt="VI-CarRealTime" /><br/><sub>VI-CarRealTime</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/ipg-carmaker.svg" width="44" height="44" alt="IPG CarMaker" /><br/><sub>IPG CarMaker</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/carsim.svg" width="44" height="44" alt="CarSim" /><br/><sub>CarSim</sub></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="assets/skills/ros.png" height="40" alt="ROS 2" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/carla.png" height="40" alt="CARLA Simulator" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/vicrt.png" height="40" alt="VI-CarRealTime" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/carmaker.png" height="40" alt="IPG CarMaker" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/carsim.png" height="40" alt="CarSim" />
+</p>
 
 #### Mechanical design
 
-<table>
-  <tr>
-    <td align="left" valign="top"><img src="assets/skills/solidworks.svg" width="44" height="44" alt="SolidWorks" /><br/><sub>SolidWorks</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/autodesk-fusion.svg" width="44" height="44" alt="Autodesk Fusion" /><br/><sub>Autodesk Fusion</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/altair-hypermesh.svg" width="44" height="44" alt="Altair HyperMesh" /><br/><sub>Altair HyperMesh</sub></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="assets/skills/solidworks.png" height="40" alt="SolidWorks" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/fusion.png" height="40" alt="Autodesk Fusion" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/hypermesh.png" height="40" alt="Altair HyperMesh" />
+</p>
 
 #### Industrial automation
 
-<table>
-  <tr>
-    <td align="left" valign="top"><img src="assets/skills/codesys.svg" width="44" height="44" alt="CODESYS" /><br/><sub>CODESYS</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/br-automation-studio.svg" width="44" height="44" alt="B&amp;R Automation Studio" /><br/><sub>B&amp;R Automation Studio</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/fluidsim.svg" width="44" height="44" alt="FluidSIM" /><br/><sub>FluidSIM</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/ladder-diagram.svg" width="44" height="44" alt="Ladder Diagram" /><br/><sub>Ladder Diagram</sub></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="assets/skills/codesys.png" height="40" alt="CODESYS" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/automation-studio.png" height="40" alt="B&R Automation Studio" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/fluidsim.png" height="40" alt="FluidSIM" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/skills/ladder.png" height="40" alt="Ladder Diagram" />
+</p>
 
 #### Programming languages & development tools
 
-<table>
-  <tr>
-    <td align="left" valign="top"><img src="assets/skills/python.svg" width="44" height="44" alt="Python" /><br/><sub>Python</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/bash.svg" width="44" height="44" alt="Bash" /><br/><sub>Bash</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/xml.svg" width="44" height="44" alt="XML" /><br/><sub>XML</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/vs-code.svg" width="44" height="44" alt="VS Code" /><br/><sub>VS Code</sub></td>
-    <td align="left" valign="top"><img src="assets/skills/latex.svg" width="44" height="44" alt="LaTeX" /><br/><sub>LaTeX</sub></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="assets/skills/python.png" height="40" alt="Python" />
+  &nbsp;
+  <img src="assets/skills/bash.png" height="40" alt="Bash" />
+  &nbsp;
+  <img src="assets/skills/xml.png" height="40" alt="XML" />
+  &nbsp;
+  <img src="assets/skills/vscode.png" height="40" alt="VS Code" />
+  &nbsp;
+  <img src="assets/skills/latex.png" height="40" alt="LaTeX" />
+</p>
 
 
 </div>
