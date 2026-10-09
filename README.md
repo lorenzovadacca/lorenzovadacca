@@ -72,7 +72,7 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 <p align="left">
   <img src="assets/skills/codesys.png" height="40" alt="CODESYS" />
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/skills/automation-studio.png" height="40" alt="B&R Automation Studio" />
+  <img src="assets/skills/automation-studio.png" height="40" alt="Automation Studio" />
   &nbsp;&nbsp;&nbsp;
   <img src="assets/skills/fluidsim.png" height="40" alt="FluidSIM" />
   &nbsp;&nbsp;&nbsp;
