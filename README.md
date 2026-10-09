@@ -39,7 +39,7 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 
 <p align="left">
   <img src="assets/skills/matlab.png" height="40" alt="MATLAB" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/simulink.png" height="40" alt="Simulink" />
 </p>
 
@@ -47,13 +47,13 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 
 <p align="left">
   <img src="assets/skills/ros.png" height="40" alt="ROS 2" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/carla.png" height="40" alt="CARLA Simulator" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/vicrt.png" height="40" alt="VI-CarRealTime" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/carmaker.png" height="40" alt="IPG CarMaker" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/carsim.png" height="40" alt="CarSim" />
 </p>
 
@@ -61,9 +61,9 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 
 <p align="left">
   <img src="assets/skills/solidworks.png" height="40" alt="SolidWorks" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/fusion.png" height="40" alt="Autodesk Fusion" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/hypermesh.png" height="40" alt="Altair HyperMesh" />
 </p>
 
@@ -71,11 +71,11 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 
 <p align="left">
   <img src="assets/skills/codesys.png" height="40" alt="CODESYS" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/automation-studio.png" height="40" alt="Automation Studio" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/fluidsim.png" height="40" alt="FluidSIM" />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="assets/skills/ladder.png" height="40" alt="Ladder Diagram" />
 </p>
 
