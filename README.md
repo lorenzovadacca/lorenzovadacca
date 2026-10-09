@@ -39,7 +39,7 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
   <img src="assets/skills/simulink.png" height="40" alt="Simulink" />
 </p>
 
-#### Autonomous vehicles, simulation & Robotics
+#### Autonomous vehicles, simulation & robotics
 
 <p align="left">
   <img src="assets/skills/ros.png" height="40" alt="ROS 2" />
