@@ -42,8 +42,6 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 #### Autonomous vehicles, simulation & robotics
 
 <p align="left">
-  <img src="assets/skills/ros.png" height="40" alt="ROS 2" />
-  &nbsp;
   <img src="assets/skills/carla.png" height="40" alt="CARLA Simulator" />
   &nbsp;
   <img src="assets/skills/vicrt.png" height="40" alt="VI-CarRealTime" />
@@ -51,6 +49,8 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
   <img src="assets/skills/carmaker.png" height="40" alt="IPG CarMaker" />
   &nbsp;
   <img src="assets/skills/carsim.png" height="40" alt="CarSim" />
+  &nbsp;
+  <img src="assets/skills/ros.png" height="40" alt="ROS 2" />
 </p>
 
 #### Mechanical design
@@ -82,11 +82,11 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
   &nbsp;
   <img src="assets/skills/bash.png" height="40" alt="Bash" />
   &nbsp;
+  <img src="assets/skills/latex.png" height="40" alt="LaTeX" />
+  &nbsp;
   <img src="assets/skills/xml.png" height="40" alt="XML" />
   &nbsp;
   <img src="assets/skills/vscode.png" height="40" alt="VS Code" />
-  &nbsp;
-  <img src="assets/skills/latex.png" height="40" alt="LaTeX" />
 </p>
 
 
