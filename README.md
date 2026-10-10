@@ -13,13 +13,13 @@
 
 ### 🧑🏻‍💻 About Me
 
-Mechatronics engineer with a solid mechanical background, keen on Control Systems, Robotics, Simulation and Autonomous vehicles.
+Mechatronics engineer with a solid mechanical background, keen on Control Systems, Robotics, Simulation and Autonomous vehicles
 
-- 🔭 Currently working as an **ADAS Performance Feature Designer** at Stellantis for Teoresi Group.
-- 🔍 Previously **Advanced Vehicle Dynamics Intern** at Danisi Engineering, **Research & Development Intern** at Thales Alenia Space.
-- 🎓 MSc in Mechatronic Engineering (Technologies for eMobility).
-- 🎓 BSc in Mechanical Engineering.
-- ⚡ Passionate about computer science and innovative design.
+- 🔭 Currently working as an **ADAS Performance Feature Designer** at Stellantis for Teoresi Group
+- 🔍 Previously **Advanced Vehicle Dynamics Intern** at Danisi Engineering, **Research & Development Intern** at Thales Alenia Space
+- 🎓 MSc in Mechatronic Engineering (Technologies for eMobility)
+- 🎓 BSc in Mechanical Engineering
+- ⚡ Passionate about computer science and innovative design
 
 ---
 
