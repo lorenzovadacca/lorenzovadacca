@@ -4,8 +4,8 @@
 
 ### Mechatronic Engineer | Working with Control systems, Robotics, Simulation and Autonomous vehicles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzovadacca)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:lorenzo.vadacca@yahoo.it)
+<a href="https://linkedin.com/in/lorenzovadacca"><img src="assets/skills/linkedin-button.png" height="30" /></a>
+<a href="mailto:lorenzo.vadacca@yahoo.it"><img src="assets/skills/mail-button.png" height="30" /></a>
 
 </div>
 
