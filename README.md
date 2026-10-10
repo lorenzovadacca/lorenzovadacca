@@ -34,59 +34,59 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 #### Control systems & model-based design
 
 <p align="left">
-  <img src="assets/skills/matlab.png" height="40" alt="MATLAB" />
+  <img src="assets/skills/matlab.png" height="35" alt="MATLAB" />
   &nbsp;
-  <img src="assets/skills/simulink.png" height="40" alt="Simulink" />
+  <img src="assets/skills/simulink.png" height="35" alt="Simulink" />
 </p>
 
 #### Autonomous vehicles, simulation & robotics
 
 <p align="left">
-  <img src="assets/skills/carla.png" height="40" alt="CARLA Simulator" />
+  <img src="assets/skills/carla.png" height="35" alt="CARLA Simulator" />
   &nbsp;
-  <img src="assets/skills/vicrt.png" height="40" alt="VI-CarRealTime" />
+  <img src="assets/skills/vicrt.png" height="35" alt="VI-CarRealTime" />
   &nbsp;
-  <img src="assets/skills/carmaker.png" height="40" alt="IPG CarMaker" />
+  <img src="assets/skills/carmaker.png" height="35" alt="IPG CarMaker" />
   &nbsp;
-  <img src="assets/skills/carsim.png" height="40" alt="CarSim" />
+  <img src="assets/skills/carsim.png" height="35" alt="CarSim" />
   &nbsp;
-  <img src="assets/skills/ros.png" height="40" alt="ROS 2" />
+  <img src="assets/skills/ros.png" height="35" alt="ROS 2" />
 </p>
 
 #### Mechanical design
 
 <p align="left">
-  <img src="assets/skills/solidworks.png" height="40" alt="SolidWorks" />
+  <img src="assets/skills/solidworks.png" height="35" alt="SolidWorks" />
   &nbsp;
-  <img src="assets/skills/fusion.png" height="40" alt="Autodesk Fusion" />
+  <img src="assets/skills/fusion.png" height="35" alt="Autodesk Fusion" />
   &nbsp;
-  <img src="assets/skills/hypermesh.png" height="40" alt="Altair HyperMesh" />
+  <img src="assets/skills/hypermesh.png" height="35" alt="Altair HyperMesh" />
 </p>
 
 #### Industrial automation
 
 <p align="left">
-  <img src="assets/skills/codesys.png" height="40" alt="CODESYS" />
+  <img src="assets/skills/codesys.png" height="35" alt="CODESYS" />
   &nbsp;
-  <img src="assets/skills/automation-studio.png" height="40" alt="Automation Studio" />
+  <img src="assets/skills/automation-studio.png" height="35" alt="Automation Studio" />
   &nbsp;
-  <img src="assets/skills/fluidsim.png" height="40" alt="FluidSIM" />
+  <img src="assets/skills/fluidsim.png" height="35" alt="FluidSIM" />
   &nbsp;
-  <img src="assets/skills/ladder.png" height="40" alt="Ladder Diagram" />
+  <img src="assets/skills/ladder.png" height="35" alt="Ladder Diagram" />
 </p>
 
 #### Programming languages & development tools
 
 <p align="left">
-  <img src="assets/skills/python.png" height="40" alt="Python" />
+  <img src="assets/skills/python.png" height="35" alt="Python" />
   &nbsp;
-  <img src="assets/skills/bash.png" height="40" alt="Bash" />
+  <img src="assets/skills/bash.png" height="35" alt="Bash" />
   &nbsp;
-  <img src="assets/skills/latex.png" height="40" alt="LaTeX" />
+  <img src="assets/skills/latex.png" height="35" alt="LaTeX" />
   &nbsp;
-  <img src="assets/skills/xml.png" height="40" alt="XML" />
+  <img src="assets/skills/xml.png" height="35" alt="XML" />
   &nbsp;
-  <img src="assets/skills/vscode.png" height="40" alt="VS Code" />
+  <img src="assets/skills/vscode.png" height="35" alt="VS Code" />
 </p>
 
 
