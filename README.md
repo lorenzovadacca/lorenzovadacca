@@ -27,6 +27,7 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 
 - [Sizing of a power conversion system for xEV](https://github.com/lorenzovadacca/Sizing-of-a-power-conversion-system-for-xEV.git) : MATLAB/Simulink simulation and control of an electric vehicle powertrain, integrating a bidirectional DC/DC boost converter and an IPM motor drive with FOC, MTPA and field-weakening strategies.
 - [Piece-counting system with a conveyor belt](https://github.com/lorenzovadacca/Piece-counting-system-with-conveyor-belt.git) : Electro-pneumatic simulation and control of an automated piece-counting conveyor belt in Automation Studio, implemented with Grafcet, state-transition Ladder logic, HMI animation, and safety/homing routines.
+- [Bottle filling and sorting system](https://github.com/lorenzovadacca/Bottle-filling-and-sorting-system.git) : Co-simulation and control of an automated multi-beverage filling, corking, and sorting line using CODESYS (LD, ST, FBD) and FluidSIM via EzOPC, featuring batch buffering, safety routines, and an interactive animated HMI.
 
 ---
 
