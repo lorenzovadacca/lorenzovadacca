@@ -30,6 +30,7 @@ Mechatronics engineer with a solid mechanical background, keen on Control System
 - [Bottle filling and sorting system](https://github.com/lorenzovadacca/Bottle-filling-and-sorting-system.git) : Co-simulation and control of an automated multi-beverage filling, corking, and sorting line using CODESYS (LD, ST, FBD) and FluidSIM via EzOPC, featuring batch buffering, safety routines, and an interactive animated HMI.
 - [ROS interfacing publisher and subscriber messaging, kinematics control](https://github.com/lorenzovadacca/ROS-interfacing-publisher-subscriber-messaging-kinematics-control.git) : MATLAB-based ROS 1 implementation of node architectures, custom pub/sub messaging, service-client communications, and closed-loop kinematic control for mobile robot teleoperation and odometry tracking.
 - [Robot modeling and vision-guided autonomous pick & place](https://github.com/lorenzovadacca/Robot-modeling-and-vision-guided-autonomous-pick-and-place.git) : Autonomous pick-and-place manipulation using a Kinova Gen3 arm in Gazebo, coordinated via ROS 1 and MATLAB/Stateflow with YOLOv2 visual detection, dynamic TF tree tracking, and IK-based trajectory generation.
+- [AI-based Driver Monitoring System for Autonomous Vehicles](https://github.com/lorenzovadacca/Driving-monitoring-system.git) : Real-time driver monitoring system in Python using OpenCV and MediaPipe Face Mesh, featuring 3D head pose and gaze estimation via solvePnP, EAR-based blink tracking, and PERCLOS/distraction alert detection.
 
 ---
 
